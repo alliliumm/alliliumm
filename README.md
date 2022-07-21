@@ -2,6 +2,6 @@
 
 ![alliliumm stats](https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula)
 
-[![alliliumm card](https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&repo=github-readme-stats&theme=dracula)](https://github.com/alliliumm/Adminio-APP)
+[![alliliumm card](https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&repo=Adminio-APP&theme=dracula)](https://github.com/alliliumm/Adminio-APP)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm)](https://github.com/anuraghazra/github-readme-stats)
