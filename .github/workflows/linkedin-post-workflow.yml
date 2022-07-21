@@ -9,8 +9,8 @@ jobs:
     name: Update this repo's README with latest Linkedin posts
     runs-on: ubuntu-latest
     steps:
-      -uses: actions/checkout@v2
-      -uses: gautamkrismar/blog-post-work@master
-      with:
-        comment_tag_name: "LINKEDIN-POST-LIST"
-        feed_list: "https://feeds.feedburner.com/Devlawyer"
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "LINKEDIN-POST-LIST"
+          feed_list: "https://www.linkedin.com/in/alessandra-teles911/"
