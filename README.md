@@ -4,4 +4,4 @@
 
 [![alliliumm card](https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&repo=Adminio-APP&theme=dracula)](https://github.com/alliliumm/Adminio-APP)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
