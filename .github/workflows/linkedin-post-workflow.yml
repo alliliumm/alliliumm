@@ -13,4 +13,4 @@ jobs:
       -uses: gautamkrismar/blog-post-work@master
       with:
         comment_tag_name: "LINKEDIN-POST-LIST"
-        feed_list: "https://www.linkedin.com/in/alessandra-teles911/"
+        feed_list: "https://feeds.feedburner.com/Devlawyer"
