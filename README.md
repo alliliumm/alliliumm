@@ -65,7 +65,7 @@
 
 <div class="git-wakatime" align="center">
   <a href="https://github.com/alliliumm">
-  <img height="180px" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
+  <img height="180px" width="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
 </div>
 
 
