@@ -32,28 +32,16 @@
 
 <br>
 
-<div class="git-repos">
-  <table>
-    <tbody style="border: white">
-      <tr>
-        <td style="border: white" align="left">
-          <a href="https://github.com/alliliumm/Adminio-APP">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&amp;theme=dracula" style="max-width: 100%;">
-          </a>
-        </td>
-        <td style="border: white" align="center">
-          <a href="https://github.com/alliliumm/Ionic-Projects">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Ionic-Projects&amp;theme=dracula" style="max-width: 100%;">
-          </a>
-        </td>
-        <td style="border: white" align="right">
-          <a href="https://github.com/alliliumm/Estudos">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&amp;theme=dracula" style="max-width: 100%;">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<div class="git-repos" align="center">
+ <a href="https://github.com/alliliumm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&amp;theme=dracula" style="max-width: 100%;">
+</div>
+
+<br>
+
+<div class="git-repos" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Ionic-Projects&amp;theme=dracula" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&amp;theme=dracula" style="max-width: 100%;">
 </div>
 
   ##
@@ -61,7 +49,6 @@
 <div>
   <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
 </div>
-
 
 <div class="git-wakatime" align="center">
   <a href="https://github.com/alliliumm">
