@@ -8,3 +8,5 @@
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 valor | valor | valor
+
+[![Alliliumm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula)](https://wakatime.com/@fcfbf5df-ac92-4fcd-b764-e638e49dd2ce)
