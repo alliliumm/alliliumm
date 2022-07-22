@@ -62,11 +62,15 @@
   <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
 </div>
 
- ![Alliliumm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula)
+
+<div class="git-wakatime" align="center">
+  <a href="https://github.com/alliliumm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
+</div>
+
+
 <div> 
 
-
-
 ![Snake animation](https://github.com/alliliumm/alliliumm/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
