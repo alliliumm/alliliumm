@@ -22,18 +22,20 @@
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div>
-  <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
-</div>
-
-<br>
-
 <div class="git-frameworks" style="display: inline_block">
   
   <img align="center" alt="Ale-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Ale-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Ale-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
+
+<div>
+  <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
+</div>
+
+<br>
+
+
 
 <div class="git-repos">
   <table>
