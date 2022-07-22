@@ -9,7 +9,7 @@
 
 |aaa|
 |:------:|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&theme=dracula)](https://github.com/alliliumm)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&theme=dracula&layout=compact)](https://github.com/alliliumm)|
 
 
 
