@@ -1,3 +1,9 @@
+<style>
+tr{border:none;}
+
+</style>
+
+
 |![Bem vindos ao meu perfil!](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)|
 |:------:|
 | ![alliliumm stats](https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula) |
@@ -12,3 +18,9 @@
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Valor | Valor | Valor
+
+
+<progress value="30" max="100"></progress>
+
+
+
