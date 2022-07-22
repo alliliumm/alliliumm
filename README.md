@@ -22,6 +22,8 @@
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+
 <div class="git-frameworks" align="center" style="display: inline_block">
   <img align="center" alt="Ale-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Ale-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
@@ -54,13 +56,13 @@
   </table>
 </div>
 
-<div>
-  <img align="right" alt="Ale-pic" height="100" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
-</div>
-
   ##
  ![Alliliumm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula)
 <div> 
+
+<div>
+  <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
