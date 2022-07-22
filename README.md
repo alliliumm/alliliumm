@@ -1,9 +1,4 @@
-<style>
-table {border:none}
-td {border:none}
-tr {border:none}
-
-</style>
+<link rel="stylesheet" href="style.css">
 
 
 |![Bem vindos ao meu perfil!](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)|
