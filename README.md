@@ -1,5 +1,7 @@
 <style>
-tr{border:none;}
+table {border:none}
+td {border:none}
+tr {border:none}
 
 </style>
 
