@@ -15,21 +15,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div class="git-languages" style="display: inline_block"><br>
+<div class="git-languages" align="center" style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div class="git-frameworks" style="display: inline_block">
+<div class="git-frameworks" align="center" style="display: inline_block">
   <img align="center" alt="Ale-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Ale-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   <img align="center" alt="Ale-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-</div>
-
-<div>
-  <img align="right" alt="Ale-pic" height="100" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
 </div>
 
 <br>
@@ -56,6 +52,10 @@
       </tr>
     </tbody>
   </table>
+</div>
+
+<div>
+  <img align="right" alt="Ale-pic" height="100" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
 </div>
 
   ##
