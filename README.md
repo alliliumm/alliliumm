@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="style.css">
 
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
 
 |![Bem vindos ao meu perfil!](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)|
 |:------:|
@@ -18,6 +20,7 @@ Valor | Valor | Valor
 
 
 <progress value="30" max="100"></progress>
+
 
 
 
