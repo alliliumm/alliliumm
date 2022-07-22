@@ -1,6 +1,6 @@
 
 <head>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://github.com/alliliumm/Alessandra-Teles/blob/main/style.css">
 </head>
 
 |![Bem vindos ao meu perfil!](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)|
