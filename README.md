@@ -87,19 +87,18 @@
 
 ##
 
-  <div>
-    <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
+  <div class="footer">
+    <div>
+      <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
+    </div>
+    <div class="end-text">
+        <p>AAAA</p>
+    </div>
   </div>
-
-  <div>
-    <p align="left"></p>
-  </div>
-
-  <div class=footer-gif> 
 
   ![Snake animation](https://github.com/alliliumm/alliliumm/blob/output/github-contribution-grid-snake.svg)
 
-  </div>
+
 </div>
 
 
