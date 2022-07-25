@@ -8,6 +8,10 @@
 
 <br>
 <div class="body">
+  <div class="start-text">
+    <p></p>
+  </div>
+
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +23,7 @@
     <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ale-PHP" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   </div>
 
   <br>
@@ -26,7 +31,14 @@
   <div class="git-frameworks" align="center" style="display: inline_block">
     <img align="center" alt="Ale-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Ale-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-    <img align="center" alt="Ale-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" alt="Ale-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </div>
+  
+  <br>
+
+  <div align="center" style="display: inline_block">
+  <img align="center" alt="Ale-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Ale-Firebase" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   </div>
 
   <br>
@@ -50,7 +62,7 @@
   </div>
 
   <div class="git-wakatime" align="center">
-    <a href="https://github.com/alliliumm">
+    <a href="https://wakatime.com/@alliliumm">
     <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
   </div>
   </div>
