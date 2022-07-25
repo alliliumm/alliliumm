@@ -10,15 +10,32 @@
 <div class="body">
   <div class="header">
   <div class="start-text">
-    <p></p>
+    <div>
+      <h2 align="center" style="font-family:Times" >Sobre mim</h2>
+      <p>AAAA</p>
+    </div>
   </div>
   </div>
 
   <div class="main">
+
+  <div>
+    <h2 align="center" style="font-family:Times" >Estatísticas</h2>
+  </div>
+
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+
+  <div class="git-wakatime" align="center">
+    <a href="https://wakatime.com/@alliliumm">
+    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
+  </div>
+
+  <div>
+    <h2 align="center" style="font-family:Times" >Habilidades</h2>
   </div>
 
   <div class="git-languages" align="center" style="display: inline_block"><br>
@@ -46,22 +63,26 @@
 
   <br>
 
+  <div>
+    <h2 align="center" style="font-family:Times" >Projetos Principais</h2>
+  </div> 
+
   <div class="git-repos" align="center">
   <a href="https://github.com/alliliumm">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&amp;theme=dracula" style="max-width: 100%;">
   </div>
 
   <br>
+    <div>
+    <h2 align="center" style="font-family:Times" >Estudos</h2>
+  </div> 
 
   <div class="git-repos" align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Ionic-Projects&amp;theme=dracula" style="max-width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&amp;theme=dracula" style="max-width: 100%;">
   </div>
 
-  <div class="git-wakatime" align="center">
-    <a href="https://wakatime.com/@alliliumm">
-    <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
-  </div>
+
   </div>
 
 ##
