@@ -1,11 +1,6 @@
 <div class="head">
   <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png">
-  <div class="header-socials">
-    <a href="https://www.linkedin.com/in/alessandra-teles911" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://gitlab.com/alessandrateles911" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-    <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+
 </div>
 
 <br>
@@ -103,7 +98,12 @@
       <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
     </div>
     <div class="end-text">
-        <p>AAAA</p>
+      <div class="header-socials">
+        <a href="https://www.linkedin.com/in/alessandra-teles911" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://gitlab.com/alessandrateles911" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+        <a href="mailto:alessandrateles911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      </div>
+      <p>AAAA</p>
     </div>
   </div>
 
