@@ -100,7 +100,8 @@
       <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
     </div>
     <div class="end-text">
-      <p>AAAA</p>
+      <p>Foi um prazer ter você aqui!!<br> 
+      </p>
       <div class="header-socials">
         <a href="https://www.linkedin.com/in/alessandra-teles911" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://gitlab.com/alessandrateles911" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
