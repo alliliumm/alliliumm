@@ -5,7 +5,7 @@
   <!-- <img src="Header.png"> -->
   <div align="center">
   <!-- <img height="50" width="50" src="loading-done(2).gif"> -->
-    <img height="50" width="50" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
+    <img height="70" width="70" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
   </div>
 </div>
 
