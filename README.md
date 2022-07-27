@@ -1,7 +1,11 @@
 <div class="head">
   <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png">
-  <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done.gif">
-  <img src="Header.png">
+
+  <!-- <img src="Header.png"> -->
+  <div align="center">
+  <!-- <img src="loading-done(2).gif"> -->
+    <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
+  </div>
   <div class="header-socials">
     <a href="https://www.linkedin.com/in/alessandra-teles911" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://gitlab.com/alessandrateles911" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
