@@ -9,7 +9,6 @@
   </div>
 </div>
 
-<br>
 <div class="body">
   <div class="header">
   <div class="start-text">
