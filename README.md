@@ -4,7 +4,7 @@
   <!-- <img src="Header.png"> -->
   <div align="center">
   <!-- <img  src="loading-done(2).gif"> -->
-    <img height="200" width="200" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
+    <img height="100" width="100" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
   </div>
 
   <div class="header-socials">
