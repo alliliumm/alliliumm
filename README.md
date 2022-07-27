@@ -12,7 +12,7 @@
   <div class="start-text">
     <div>
       <h2 align="center" style="font-family:Times" >Sobre mim</h2>
-      <p>O primeiro contato que obtive com a programação foi no curso técnico de informática, o qual me deu os primeiros passos para seguir nessa área, assim determinei os meus objetivos e minhas metas para evoluir cada vez mais, não somente como programadora, mas também como pessoa e aprendiz por toda a vida. <br>
+      <p>O primeiro contato que obtive com a programação foi no curso técnico de informática, o qual me deu os primeiros passos para seguir nessa área, assim determinei os meus objetivos e minhas metas para evoluir cada vez mais, não somente como programadora, mas também como pessoa e aprendiz por toda a vida. <br><br>
       Contudo, busco desafios e aventuras nessa área para entregar soluções pensadas para cada obstáculo que houver, e com isso, poder aprender mais e ainda me divertir durante o percurso da evolução.
       </p>
     </div>
