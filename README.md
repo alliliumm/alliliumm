@@ -12,7 +12,9 @@
   <div class="start-text">
     <div>
       <h2 align="center" style="font-family:Times" >Sobre mim</h2>
-      <p>AAAA</p>
+      <p>O primeiro contato que obtive com a programação foi no curso técnico de informática, o qual me deu os primeiros passos para seguir nessa área, assim determinei os meus objetivos e minhas metas para evoluir cada vez mais, não somente como programadora, mas também como pessoa e aprendiz por toda a vida. <br>
+      Contudo, 
+      </p>
     </div>
   </div>
   </div>
@@ -27,11 +29,13 @@
     <a href="https://github.com/alliliumm">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
   </div>
 
   <div class="git-wakatime" align="center">
     <a href="https://wakatime.com/@alliliumm">
     <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
+    </a>
   </div>
 
   <div>
