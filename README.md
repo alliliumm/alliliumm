@@ -102,6 +102,8 @@
     </div>
     <div class="end-text">
       <p>Foi um prazer ter você aqui!!<br> 
+      Agradeço pelo seu breve momento pelo meu perfil. &#128522;<br>
+      Se quiser, dê um passeio pelas minhas redes:
       </p>
       <div class="header-socials">
         <a href="https://www.linkedin.com/in/alessandra-teles911" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
