@@ -83,8 +83,8 @@
   </div> 
 
   <div class="git-repos" align="center">
-  <a href="https://github.com/alliliumm/Ionic-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Ionic-Projects&amp;theme=dracula" style="max-width: 100%;">
+  <a href="https://github.com/alliliumm/Projetos-Estudos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Projetos-Estudos&amp;theme=dracula" style="max-width: 100%;">
   </a>
   <a href="https://github.com/alliliumm/Estudos">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&amp;theme=dracula" style="max-width: 100%;">
