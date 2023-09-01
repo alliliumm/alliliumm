@@ -1,9 +1,9 @@
 <div class="head">
   <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png">
   <br><br>
-  <div align="center">
+<!--   <div align="center">
     <img height="80" width="80" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
-  </div>
+  </div> -->
 </div>
 
 <div class="body">
