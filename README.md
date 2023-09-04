@@ -1,10 +1,13 @@
+![HEADER](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)
+
+<!--  
 <div class="head">
   <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png">
   <br><br>
-<!--   <div align="center">
+ <div align="center">
     <img height="80" width="80" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
-  </div> -->
-</div>
+  </div>
+</div> -->
 
 <div class="body">
   <div class="header">
@@ -27,14 +30,11 @@
 
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alliliumm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=alliliumm&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&border=00A7EB&dates=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=8&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
     </a>
-  </div>
-
-  <div class="git-wakatime" align="center">
     <a href="https://wakatime.com/@alliliumm">
-    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=dracula"/>
+    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
     </a>
   </div>
 
@@ -42,30 +42,37 @@
     <h2 align="center" style="font-family:Times" >Habilidades</h2>
   </div>
 
+  <div class="git-lang-text" align="center" style="display: inline_block">
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
+    <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
+  </div>
   <div class="git-languages" align="center" style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Type-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="PHP" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+    <img align="center" alt="Type-Script"  src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+    <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
   </div>
-
-  <br>
-
-  <div class="git-frameworks" align="center" style="display: inline_block">
-    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-    <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <div class="git-bibliotecas" align="center" style="display: inline_block"><br>
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap">
+    <img align="center" alt="Jquery"  src="https://img.shields.io/badge/Jquery-000?style=for-the-badge&logo=jquery">
   </div>
-
-  <br>
-
-  <div align="center" style="display: inline_block">
-    <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-    <img align="center" alt="Firebase" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-    <img valign="center" alt="OracleSQL" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <div class="git-frameworks" align="center" style="display: inline_block"><br>
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
+    <img align="center" alt="React Native"  src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react">    
+    <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-000?style=for-the-badge&logo=ionic">
+    <img align="center" alt="Vue.JS"  src="https://img.shields.io/badge/VueJS-000?style=for-the-badge&logo=vue.js">
+    <img align="center" alt="Flutter"  src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter">
   </div>
-
+  <div class="git-bancos" align="center" style="display: inline_block"><br>
+    <img align="center" alt="My SQL" src="https://img.shields.io/badge/MY_SQL-000?style=for-the-badge&logo=mysql">
+    <img align="center" alt="Oracle SQL"  src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle"> 
+  </div>
+  <div class="git-clouds" align="center" style="display: inline_block"><br>
+    <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws">
+    <img align="center" alt="Firebase"  src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase"> 
+  </div>
+  
   <br>
 
   <div>
@@ -74,7 +81,7 @@
 
   <div class="git-repos" align="center">
   <a href="https://github.com/alliliumm/Adminio-APP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&amp;theme=dracula" style="max-width: 100%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
   </div>
 
@@ -85,10 +92,10 @@
 
   <div class="git-repos" align="center">
   <a href="https://github.com/alliliumm/Projetos-Estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Projetos-Estudos&amp;theme=dracula" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Projetos-Estudos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
   <a href="https://github.com/alliliumm/Estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&amp;theme=dracula" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
   </div>
 
@@ -117,5 +124,6 @@
   ![Snake animation](https://github.com/alliliumm/alliliumm/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
+<!--https://shields.io/badges-->
+<!--https://github.com/elidianaandrade/dio-lab-open-source/tree/main-->
 
