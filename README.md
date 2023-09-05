@@ -1,6 +1,7 @@
 ![HEADER](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alessandra-teles911/) 
 [![Gitlab](https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/alliliumm) 
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:alessandrateles911@gmail.com) 
 <!-- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](.lili_th)-->
 <!--  
 <div class="head">
