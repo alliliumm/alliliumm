@@ -124,7 +124,7 @@
     </div>
   </div>
 
-  ![Snake animation](https://github.com/alliliumm/alliliumm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alliliumm/alliliumm/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <!--https://shields.io/badges-->
