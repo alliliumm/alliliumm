@@ -83,25 +83,18 @@
   </div> 
 
   <div class="git-repos" align="center">
-  <a href="https://github.com/alliliumm/Adminio-APP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Adminio-APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  <a href="https://github.com/projetos-oficiais-alliliumm/Adminio_APP">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=Adminio_APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
   </div>
-
-  <br>
-    <div>
-    <h2 align="center" style="font-family:Times" >Estudos</h2>
-  </div> 
-
   <div class="git-repos" align="center">
-  <a href="https://github.com/alliliumm/Projetos-Estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Projetos-Estudos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  <a href="https://github.com/projetos-oficiais-alliliumm/portalessandrateles">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=portalessandrateles&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/alliliumm/Estudos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alliliumm&amp;repo=Estudos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
-  </a>
+  <a href="https://github.com/projetos-oficiais-alliliumm/gerencimento-documentos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=gerencimento-documentos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  </a>  
   </div>
-
 
   </div>
 
