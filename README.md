@@ -34,10 +34,10 @@
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
     <img height="180em" src="https://streak-stats.demolab.com?user=alliliumm&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&border=00A7EB&dates=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=8&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-fast-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=8&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
     </a>
     <a href="https://wakatime.com/@alliliumm">
-    <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alliliumm&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
+    <img height="180em" width="350px" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alliliumm&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
     </a>
   </div>
 
@@ -83,16 +83,16 @@
   </div> 
 
   <div class="git-repos" align="center">
-  <a href="https://github.com/projetos-oficiais-alliliumm/Adminio_APP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=Adminio_APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  <a href="https://github.com/alliliumm/Adminio_APP">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=Adminio_APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
   </div>
   <div class="git-repos" align="center">
-  <a href="https://github.com/projetos-oficiais-alliliumm/portalessandrateles">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=portalessandrateles&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  <a href="https://github.com/alliliumm/portalessandrateles">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=portalessandrateles&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/projetos-oficiais-alliliumm/gerencimento-documentos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projetos-oficiais-alliliumm&amp;repo=gerencimento-documentos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
+  <a href="https://github.com/alliliumm/gerencimento-documentos">
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=gerencimento-documentos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
   </a>  
   </div>
 
