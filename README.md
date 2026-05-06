@@ -42,35 +42,14 @@
     <h2 align="center" style="font-family:Times" >Habilidades</h2>
   </div>
 
+  <div>
+    <img src="https://githubcard.com/alliliumm.svg?d=Z42TqOdF"/>
+  </div>
   <div class="git-lang-text" align="center" style="display: inline_block">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
     <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
-  </div>
-  <div class="git-languages" align="center" style="display: inline_block"><br>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-    <img align="center" alt="Type-Script"  src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
-    <img align="center" alt="Python"  src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
-  </div>
-  <div class="git-bibliotecas" align="center" style="display: inline_block"><br>
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap">
-    <img align="center" alt="Jquery"  src="https://img.shields.io/badge/Jquery-000?style=for-the-badge&logo=jquery">
-  </div>
-  <div class="git-frameworks" align="center" style="display: inline_block"><br>
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
     <img align="center" alt="React Native"  src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react">    
     <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-000?style=for-the-badge&logo=ionic">
-    <img align="center" alt="Vue.JS"  src="https://img.shields.io/badge/VueJS-000?style=for-the-badge&logo=vue.js">
-    <img align="center" alt="Flutter"  src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter">
-  </div>
-  <div class="git-bancos" align="center" style="display: inline_block"><br>
-    <img align="center" alt="My SQL" src="https://img.shields.io/badge/MY_SQL-000?style=for-the-badge&logo=mysql">
     <img align="center" alt="Oracle SQL"  src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle"> 
-  </div>
-  <div class="git-clouds" align="center" style="display: inline_block"><br>
-    <img align="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-000?style=for-the-badge&logo=amazonaws">
-    <img align="center" alt="Firebase"  src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase"> 
   </div>
   
   <br>
