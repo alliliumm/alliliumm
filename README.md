@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alessandra-teles911/) 
 [![Gitlab](https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/alliliumm) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:alessandrateles911@gmail.com) 
+[![Wakatime](https://img.shields.io/badge/Wakatime-000?style=for-the-badge&logo=wakatime)](https://wakatime.com/@alliliumm) 
 <!-- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](.lili_th)-->
 <!--  
 <div class="head">
@@ -33,11 +34,7 @@
 
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
-    <img height="180em" src="https://streak-stats.demolab.com?user=alliliumm&theme=bear&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&border=00A7EB&dates=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats-fast-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alliliumm&layout=compact&langs_count=8&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
-    </a>
-    <a href="https://wakatime.com/@alliliumm">
-    <img height="180em" width="350px" src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=alliliumm&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF"/>
+      <img src="https://githubcard.com/alliliumm.svg?d=UYtfRtXA"/>
     </a>
   </div>
 
