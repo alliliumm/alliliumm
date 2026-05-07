@@ -1,17 +1,9 @@
-![HEADER](https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png)
+![HEADER](https://github.com/alliliumm/Alessandra-Teles/blob/main/public/images/Header02.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alessandra-teles911/) 
 [![Gitlab](https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab)](https://gitlab.com/alliliumm) 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:alessandrateles911@gmail.com) 
 [![Wakatime](https://img.shields.io/badge/Wakatime-000?style=for-the-badge&logo=wakatime)](https://wakatime.com/@alliliumm) 
 <!-- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](.lili_th)-->
-<!--  
-<div class="head">
-  <img src="https://github.com/alliliumm/Alessandra-Teles/blob/main/Header.png">
-  <br><br>
- <div align="center">
-    <img height="80" width="80" src="https://github.com/alliliumm/Alessandra-Teles/blob/main/loading-done(2).gif">
-  </div>
-</div> -->
 
 <div class="body">
   <div class="header">
@@ -83,7 +75,7 @@
 
   <div class="footer">
     <div>
-      <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/perf-v1.png">
+      <img align="right" alt="Ale-pic" height="150" src="https://github.com/alliliumm/alliliumm/blob/main/public/images/perf-v1.png">
     </div>
     <div class="end-text">
       <p>Foi um prazer ter você aqui!!<br> 
