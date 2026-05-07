@@ -67,13 +67,13 @@
   </div> 
     <div class="git-repos" align="center">
     <a href="https://github.com/alliliumm/Adminio_APP">
-        <img height="250" src="https://githubcard.com/alliliumm/Adminio_APP.svg?d=ixw5WZ1F"/>
+        <img height="240" src="https://githubcard.com/alliliumm/Adminio_APP.svg?d=ixw5WZ1F"/>
     </a>
     <a href="https://github.com/alliliumm/portalessandrateles">
-        <img height="250" src="https://githubcard.com/alliliumm/portalessandrateles.svg?d=ixw5WZ1F"/>
+        <img height="240" src="https://githubcard.com/alliliumm/portalessandrateles.svg?d=ixw5WZ1F"/>
     </a>
     <a href="https://github.com/alliliumm/gerencimento-documentos">
-        <img height="250" src="https://githubcard.com/alliliumm/gerencimento-documentos.svg?d=ixw5WZ1F"/>
+        <img height="240" src="https://githubcard.com/alliliumm/gerencimento-documentos.svg?d=ixw5WZ1F"/>
     </a>  
     </div>
   </details>
