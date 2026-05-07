@@ -28,20 +28,27 @@
 
   <div class="main">
 
-  <div>
+
+
+  <details>
+    <summary>Mostrar Estatísticas 📊</summary>
+      <div>
     <h2 align="center" style="font-family:Times" >Estatísticas</h2>
   </div>
-
   <div class="git-status" align="center">
     <a href="https://github.com/alliliumm">
-      <img src="https://githubcard.com/alliliumm.svg?d=UYtfRtXA"/>
+      <img src="https://githubcard.com/alliliumm.svg?d=ThJn7_gR"/>
     </a>
   </div>
+  </details>
 
-  <div>
+  
+
+  <details>
+    <summary>Mostrar Habilidades 👩‍💻</summary>
+    <div>
     <h2 align="center" style="font-family:Times" >Habilidades</h2>
   </div>
-
   <div>
     <img src="https://githubcard.com/alliliumm.svg?d=Z42TqOdF"/>
   </div>
@@ -51,28 +58,26 @@
     <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-000?style=for-the-badge&logo=ionic">
     <img align="center" alt="Oracle SQL"  src="https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle"> 
   </div>
-  
-  <br>
+  </details>
 
+  <details>
+    <summary>Mostrar Projetos Principais 📚</summary>
   <div>
     <h2 align="center" style="font-family:Times" >Projetos Principais</h2>
   </div> 
-
-  <div class="git-repos" align="center">
-  <a href="https://github.com/alliliumm/Adminio_APP">
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=Adminio_APP&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
-  </a>
-  </div>
-  <div class="git-repos" align="center">
-  <a href="https://github.com/alliliumm/portalessandrateles">
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=portalessandrateles&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/alliliumm/gerencimento-documentos">
-    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=alliliumm&repo=gerencimento-documentos&theme=bear&theme=bear&bg_color=000&border_color=30A3DC&title_color=E03C8A&text_color=FFFFFF" style="max-width: 100%;">
-  </a>  
-  </div>
-
-  </div>
+    <div class="git-repos" align="center">
+    <a href="https://github.com/alliliumm/Adminio_APP">
+        <img height="260" src="https://githubcard.com/alliliumm/Adminio_APP.svg?d=ixw5WZ1F"/>
+    </a>
+    <a href="https://github.com/alliliumm/portalessandrateles">
+        <img height="260" src="https://githubcard.com/alliliumm/portalessandrateles.svg?d=ixw5WZ1F"/>
+    </a>
+    <a href="https://github.com/alliliumm/gerencimento-documentos">
+        <img height="260" src="https://githubcard.com/alliliumm/gerencimento-documentos.svg?d=ixw5WZ1F"/>
+    </a>  
+    </div>
+  </details>
+</div>
 
 ##
 
